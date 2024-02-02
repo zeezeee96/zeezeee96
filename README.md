@@ -4,7 +4,7 @@
 
 ![Zee Zeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeezeee96&theme=transparent&show_icons=true&rank_icon=github&show=reviews,prs_merged)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeezeee96)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeezeee96&layout=donut&theme=transparent)](https://github.com/zeezeee96/github-readme-stats)
 <!--
 **zeezeee96/zeezeee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
