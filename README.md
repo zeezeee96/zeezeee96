@@ -1,5 +1,6 @@
 ### Hi there 👋
-![snake animation](https://github.com/zeezeee96/zeezeee96/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/zeezeee96/zeezeee96/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **zeezeee96/zeezeee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
