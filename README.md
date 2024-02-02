@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![snake animation](https://github.com/zeezeee96/zeezeee96/blob/output/ocean.gif)
 
+
+![Zee Zeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeezeee96&theme=transparent&show_icons=true)
 <!--
 **zeezeee96/zeezeee96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
