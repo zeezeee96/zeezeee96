@@ -1,155 +1,133 @@
-### Hi 👋, I'm Muhammad Aziz
+# Hi 👋, I'm Muhammad Aziz
 
-
-<div>
-
-- 🌱 I’m currently working as a **MERN Engineer** at [Pursue Today](https://github.com/pursuetoday)
-
-- 🤪 "I'm a JavaScript whiz, fluent in 'console.log' and sporting a black belt in debugging! Plus, I weave magic in UI development. Evolving from a mechanical engineer to a coding sorcerer, I wield the power of React.js, Next.js, and Node.js to create digital wonders." 😄 
-- 📫 Reach me at **engr.muhammadaziz96@gmail.com**
-
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Muhammad+Aziz;Web+Developer;MERN+Engineer;Mechanical+Engineer;%40zeezeee96">
-</p>
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" allowFullScreen></img></p>
-<hr>
-<br>
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=zeezeee96">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/zeezeee96?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
-
-</div>
-
-## Contribution Snake
-
-![snake animation](https://github.com/zeezeee96/zeezeee96/blob/output/ocean.gif)
-
-## Github Stats
-<br>
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=zeezeee96&show_icons=true&rank_icon=github&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GithubStats" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeezeee96&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="TopLanguages" />
-   
+
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fzeezeee96\&style=for-the-badge)](https://rankistan.dev)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Lead;Next.js+%26+React+Specialist;Building+Fast+%26+Scalable+Apps;Mechanical+Engineer+Turned+Developer" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=zeezeee96&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/zeezeee96?style=for-the-badge" />
+
 </div>
+
+---
+
+## 🚀 About Me
+
+* 💼 MERN Stack Developer with 5+ years of experience
+* ⚛️ Specialized in React.js, Next.js, TypeScript & Node.js
+* 🎯 Frontend Lead focused on scalable architecture & pixel-perfect UI
+* ☁️ Experienced with AWS, Docker, Huawei Cloud & Vercel
+* 🔥 Passionate about performance optimization & clean code
+* 🌍 Experienced working with remote international teams
+* 🛠️ Building modern full-stack web applications
+
+<br />
+
 <div align="center">
-    <img  src="https://streak-stats.demolab.com/?user=zeezeee96&theme=dark" alt="Streaks" />
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="250" />
 </div>
 
-## Technology Stack 💻
+---
 
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+# 📊 GitHub Stats
 
-### Programming Languages 👨‍💻 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
+<div align="center">
 
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zeezeee96&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeezeee96&layout=compact&theme=transparent&hide_border=true" />
 
-### Frameworks📦 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">&nbsp;&nbsp;
+<br />
 
-</p>
+<img src="https://streak-stats.demolab.com?user=zeezeee96&theme=transparent&hide_border=true" />
 
-### CSS Frameworks📦 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white">&nbsp;&nbsp;
+</div>
 
-</p>
+---
 
+# 🐍 Contribution Snake
 
+<div align="center">
 
-### IDEs/Editors 👨‍🔧 :
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
+![snake animation](https://github.com/zeezeee96/zeezeee96/blob/output/github-contribution-grid-snake-dark.svg)
 
+</div>
 
-### Version Control 🔧 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-</p>
+---
 
+# 💻 Tech Stack
 
-### Social Media 🔗 :
-<br>
-<p align='center'>
-<a href="mailto:engr.muhammadaziz96@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/zeezeee96" target="_blank">
-<img src="https://img.shields.io/badge/zeezeee96-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/zeezeee96" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.twitter.com/zeeezeee96" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+## 🚀 Frontend
 
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css" />
 
+</div>
 
-### Hosting 🌎 :
+---
 
-<p align='center'>
-<img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+## ⚙️ Backend & Database
 
-<p align='center'>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-### Database 💾 :
+</div>
 
-<p align='center'>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
+---
 
+## ☁️ DevOps & Tools
 
-### Operating Systems 🐧 :
+<div align="center">
 
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" allowFullScreen></img></p>
-<p align='center'>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</p>
-<hr>
-<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,vercel" />
 
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
+</div>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" allowFullScreen></img></p>
-<br>
+---
 
-<h2 align='center'>Thank You!!!!!</h2>
-<br>
+# 🌐 Connect With Me
 
-------
-Credit : [Muhammad Aziz](https://github.com/zeezeee96)
+<div align="center">
 
-Last Edited on: 02 February 2024
+<a href="mailto:engr.muhammadaziz96@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/zeezeee96">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/zeezeee96">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+const aziz = {
+  background: "Mechanical Engineering",
+  currentRole: "Frontend Lead",
+  passions: ["React", "Next.js", "UI/UX", "Performance"],
+  lifeMotto: "console.log() never disappoints 😄",
+};
+```
+
+---
+
+<div align="center">
+
+### ⭐ Support Me By Starring Some Of My Repositories
+
+Thanks for visiting ❤️
+
+</div>
