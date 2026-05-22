@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-* 💼 MERN Stack Developer with 5+ years of experience
+* 💼 MERN Stack Developer with 6+ years of experience
 * ⚛️ Specialized in React.js, Next.js, TypeScript & Node.js
 * 🎯 Frontend Lead focused on scalable architecture & pixel-perfect UI
 * ☁️ Experienced with AWS, Docker, Huawei Cloud & Vercel
@@ -37,10 +37,6 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zeezeee96&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeezeee96&layout=compact&theme=transparent&hide_border=true" />
-
 <br />
 
  <img  src="https://streak-stats.demolab.com/?user=zeezeee96&theme=dark" alt="Streaks" />
@@ -57,7 +53,6 @@
 
 </div>
 
----
 
 # 💻 Tech Stack
 
@@ -69,7 +64,6 @@
 
 </div>
 
----
 
 ## ⚙️ Backend & Database
 
@@ -79,7 +73,6 @@
 
 </div>
 
----
 
 ## ☁️ DevOps & Tools
 
@@ -89,7 +82,6 @@
 
 </div>
 
----
 
 # 🌐 Connect With Me
 
@@ -109,7 +101,6 @@
 
 </div>
 
----
 
 # ⚡ Fun Fact
 
