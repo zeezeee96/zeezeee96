@@ -43,7 +43,7 @@
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=zeezeee96&theme=transparent&hide_border=true" />
+ <img  src="https://streak-stats.demolab.com/?user=zeezeee96&theme=dark" alt="Streaks" />
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-![snake animation](https://github.com/zeezeee96/zeezeee96/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/zeezeee96/zeezeee96/blob/output/ocean.gif)
 
 </div>
 
