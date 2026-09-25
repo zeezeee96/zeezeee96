@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fzeezeee96\&style=for-the-badge)](https://rankistan.dev)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Lead;Next.js+%26+React+Specialist;Building+Fast+%26+Scalable+Apps;Mechanical+Engineer+Turned+Developer" />
 
 <br />
